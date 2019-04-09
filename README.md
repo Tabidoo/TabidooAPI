@@ -1,11 +1,7 @@
-# TabidooAPI
-REST API Interface for Tabidoo.
-
-
 FORMAT: 1A
 HOST: https://app.tabidoo.cloud/api/v2
 
-# Tabidoo API v.2
+# Tabidoo API v.2 - REST API doc
 
 The Tabidoo API is a simple way to integrate 
 your app with [Tabidoo](https://www.tabidoo.cloud). 
